@@ -1,0 +1,4 @@
+2026-10-28 08:42:54.298 xcodebuild[3613:15649] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/n6/hn37q6pj7sj_9dmqqc2113800000gn/T/XcodeVoice_2026-10-28_08-42-54.297.xcdistributionlogs".
+Exported XcodeVoice to: /Users/runner/work/xcodeVoice/xcodeVoice/XcodeVoice.ipa
+** EXPORT SUCCEEDED **
+

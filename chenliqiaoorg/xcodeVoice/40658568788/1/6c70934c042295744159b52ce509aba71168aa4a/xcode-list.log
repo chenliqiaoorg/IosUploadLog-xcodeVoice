@@ -1,0 +1,17 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/xcodeVoice/xcodeVoice/XcodeVoice.xcworkspace
+
+Information about workspace "XcodeVoice":
+    Schemes:
+        ApplePurchaseKit
+        KeychainAccess
+        lame
+        lame-apple_privacy
+        Pods-XcodeVoice
+        Pods-XcodeVoice_Test
+        SVProgressHUD
+        UMCommon
+        UMDevice
+        XcodeVoice
+        XcodeVoice_Test
+

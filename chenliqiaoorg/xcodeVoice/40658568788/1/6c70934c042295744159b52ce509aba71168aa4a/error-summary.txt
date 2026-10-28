@@ -1,0 +1,1 @@
+Validation failed (409) Invalid large app icon. The large app icon in the asset catalog in “XcodeVoice.app” can’t be transparent or contain an alpha channel. For details, visit: https://developer.apple.com/design/human-interface-guidelines/app-icons. (ID: 82cd9dfb-3f84-49c3-bcf2-25d7c4d1a76f) 

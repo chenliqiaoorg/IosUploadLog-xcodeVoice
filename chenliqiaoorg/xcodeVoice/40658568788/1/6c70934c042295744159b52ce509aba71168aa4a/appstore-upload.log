@@ -1,0 +1,15 @@
+Running altool at path '/Applications/Xcode_26.3.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-10-28 08:43:25.048 ERROR: [ContentDelivery.Uploader.10175AD00] 
+=======================================
+UPLOAD FAILED with 1 error
+=======================================
+2026-10-28 08:43:25.049 ERROR: [altool.10175AD00] Validation failed (409) Invalid large app icon. The large app icon in the asset catalog in “XcodeVoice.app” can’t be transparent or contain an alpha channel. For details, visit: https://developer.apple.com/design/human-interface-guidelines/app-icons. (ID: 82cd9dfb-3f84-49c3-bcf2-25d7c4d1a76f)
+   NSUnderlyingError : Validation failed (-19241) Invalid large app icon. The large app icon in the asset catalog in “XcodeVoice.app” can’t be transparent or contain an alpha channel. For details, visit: https://developer.apple.com/design/human-interface-guidelines/app-icons.
+      status : 409
+      detail : Invalid large app icon. The large app icon in the asset catalog in “XcodeVoice.app” can’t be transparent or contain an alpha channel. For details, visit: https://developer.apple.com/design/human-interface-guidelines/app-icons.
+      id : 82cd9dfb-3f84-49c3-bcf2-25d7c4d1a76f
+      code : STATE_ERROR.VALIDATION_ERROR
+      title : Validation failed
+   iris-code : STATE_ERROR.VALIDATION_ERROR
+Failed to upload package.
